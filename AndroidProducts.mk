@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_nx563j.mk
+    $(LOCAL_DIR)/lmodroid_nx563j.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_nx563j-user \
-    lineage_nx563j-userdebug \
-    lineage_nx563j-eng
+    lmodroid_nx563j-user \
+    lmodroid_nx563j-userdebug \
+    lmodroid_nx563j-eng
